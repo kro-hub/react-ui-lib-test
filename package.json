@@ -9,7 +9,7 @@
     "build-storybook": "build-storybook",
     "build": "webpack --mode production",
     "build-dev": "webpack --mode development",
-    "chromatic": "npx chromatic --project-token 5179edc60ff4"
+    "chromatic": "npx chromatic --project-token CHROMATIC_PROJECT_TOKEN --exit-zero-on-changes"
   },
   "keywords": [],
   "author": "",
