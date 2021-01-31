@@ -4,7 +4,7 @@ export const font = css`
   text-transform: uppercase;
   font-size: 1em;
   font-weight: bold;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
 `;
 
 export const shape = css`
