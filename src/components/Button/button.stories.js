@@ -2,7 +2,7 @@ import React from 'react'
 import Button from './index'
 import { withKnobs, text } from '@storybook/addon-knobs'
 
-export default { title: 'Button component', decorators: [withKnobs]}
+export default { title: 'Button component test', decorators: [withKnobs]}
 
 export const PrimaryButton = () => {
   const message = text('Text', 'Click here now!')
